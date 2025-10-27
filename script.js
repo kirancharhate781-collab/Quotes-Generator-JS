@@ -10,9 +10,9 @@ const quotes = [
 const authors = [
   "Unknown",
   "Unknown",
-  "Anonymous",
   "Unknown",
-  "Marilyn Monroe",
+  "Unknown",
+  "Unknown",
   "Unknown"
 ];
 
